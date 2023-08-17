@@ -2,7 +2,7 @@
 
 Im Ahmad Fatha Mumtaza currently active as a software engineering technology student at Universitas Gadjah Mada. I am a person who can work in a team, have good communication, can manage priorities and be responsible. I'm interested in UI/UX and web development because i want to be a designer in website or application.
 If you are interested in getting to know me, you can follow my account👇
-
+<br>
 [Linkedin](https://www.linkedin.com/in/mumtaza15/), thank you🙏.
  
 <p align="left">
